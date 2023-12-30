@@ -22,8 +22,9 @@ Print the output
 
 # PROGRAM:
 ```
-#Developed by: Naveen kumar.R
-# Register Number: 23013536
+#Developed by:N.kannan
+# Register Number: 23013389
+
 import pandas as pd
 df = pd.read_csv('/content/drive/MyDrive/nba.csv')
 print(df.head(10))
